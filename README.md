@@ -1,7 +1,7 @@
 Front End Test Sonia Layra Ega Yanti
 
 Preview
-https://github.com/SoniaLayraEgaYanti/FE_Test_SoniaLayraEgaYanti/assets/93532325/7d1bf5fc-c694-4a47-aff7-548371e6feae
+https://github.com/SoniaLayraEgaYanti/FE_Test_SoniaLayraEgaYanti/assets/93532325/7d1bf5fc-c694-4a47-aff7-548371e6feae.
 
 Screenshot 1
 ![Screenshot_1068](https://github.com/SoniaLayraEgaYanti/FE_Test_SoniaLayraEgaYanti/assets/93532325/0ee8eed3-154b-4388-be60-7aa6566b089c)
